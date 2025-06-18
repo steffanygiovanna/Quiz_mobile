@@ -13,7 +13,7 @@
   -Steffany giovanna da Silva Souza (3des-ds-Jc),
   -Maria Luiza Alves Florêncio (3des-ds-Jc).
 
-  ###Páginas:
+  Páginas:
 
 <img src ="Inicio.png">
 <img src ="Pergunta1.png">
